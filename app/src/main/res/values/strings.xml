@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shift</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="edit">編輯班表</string>
+    <string name="cancel">取消編輯</string>
+    <string name="upload_shift">上傳班表</string>
+    <string name="cancel_edit">取消編輯</string>
+</resources>
